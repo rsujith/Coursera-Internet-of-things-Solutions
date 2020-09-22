@@ -1,0 +1,22 @@
+
+ATMEGA48P_08 and ATmega168P/V
+
+Clock frequency- Up to 20 MIPS Throughput at 20 MHz
+Bitwidth of the datapath-8-bit
+Size of Flash memory-4/8/16/32K Bytes
+Number of pins-28 Pins
+ADC-8 pins,PortA ( PA0 - PA7 ).
+https://www.alldatasheet.com/view.jsp?Searchword=Atmega328p&gclid=CjwKCAjwwab7BRBAEiwAapqpTP-q_DqtBCs9OQ-BQLGqtP0tgYRVfy_vvWcM3byQXVY_VAjfMtmTSRoCnFIQAvD_BwE
+
+
+
+
+1.Arduino:none
+
+Rasberry pi:Raspbian OS
+
+2.
+
+Arduino:None
+
+Rasberry pi:yes
